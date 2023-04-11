@@ -1,1 +1,1 @@
-# Learning-Resource
+# Interview-Prepartion-Data-Science
